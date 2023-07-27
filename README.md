@@ -3,7 +3,7 @@
 
 *(pt-br)* O projeto consiste em uma página web na qual o usuário pode criar uma lista de afazeres, sinalizar a conclusão da atividade e remover items da lista. 
 
-## Funcionalidade 🔨
+## Funcionamento 🔨
 O usuário insere seu texto numa input, e ao clicar no botão 'Add', seu item é adicionado à uma lista com um checkbox. Caso o usuário queira remover o item, o botão 'Remove' remove o último item da lista. Assim que concluída a tarefa, o usuário preenche o checkbox e automaticamente o texto recebe um linha atravessada e toma um tom mais claro. Dessa forma, o projeto serve para gerenciar tarefas diárias.
 
 ## Demonstração 📸
