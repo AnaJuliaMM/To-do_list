@@ -1,4 +1,4 @@
-# To-Do List
+# Projeto To-Do List
 *(en)* The project is a website with which the user can create a to-do list, adding items, removing items and signaling when the task is concluded.
 
 *(pt-br)* O projeto consiste em uma página web na qual o usuário pode criar uma lista de afazeres, sinalizar a conclusão da atividade e remover items da lista. 
